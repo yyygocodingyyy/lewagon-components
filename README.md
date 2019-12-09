@@ -14,6 +14,7 @@ In this project, teaching student how to build a site with CSS components
 
 ## II. Componenets
 * build 5 components under folder
+
 ![alt tag](https://github.com/yyygocodingyyy/lewagon-components/blob/master/Screenshot%20from%202019-12-09%2005-04-48.png)
 
 ## III. How to design a card
