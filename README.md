@@ -6,7 +6,7 @@ In this project, teaching student how to build a site with CSS components
 * only applied media query
 
 ## I. Page Layout
-* banner
+* banner (with gradient effect)
 ![alt tag](https://github.com/yyygocodingyyy/lewagon-components/blob/master/Screenshot%20from%202019-12-09%2005-04-06.png)
 
 * after banner elements
@@ -20,6 +20,7 @@ In this project, teaching student how to build a site with CSS components
 ## III. How to design a card
 * first draw out the structure of the card
 * then able to design the HTML 
+* applied card design with flexbox
 ![alt tag](https://github.com/yyygocodingyyy/lewagon-components/blob/master/Screenshot%20from%202019-12-06%2021-00-57.png)
 
 
