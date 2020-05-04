@@ -4,7 +4,7 @@ In this project, teaching student how to build a site with CSS components
 * how to create avatar
 * how to create card element
 * only applied media query
-https://yyygocodingyyy.github.io/lewagon-components/#
+* https://yyygocodingyyy.github.io/lewagon-components/#
 
 ## I. Page Layout
 * banner (with gradient effect)
